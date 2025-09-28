@@ -13,7 +13,7 @@ import {
   Users,
   Activity
 } from 'lucide-react';
-import heroImage from '@/assets/hero-doctor.jpg';
+import heroImage from '../assets/hero-doctor.jpg';
 
 const LandingPage = () => {
   const features = [
